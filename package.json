@@ -1,6 +1,7 @@
 {
   "allowScripts": {
-  "sharp": true
+    "sharp": true,
+    "unrs-resolver": true
   },
   "name": "my-portfolio",
   "version": "0.1.0",
